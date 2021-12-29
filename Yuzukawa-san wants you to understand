@@ -12,6 +12,14 @@
         "Hashu": "/proxy/api/imgur/chapter/MwA0mJR/"
       },
       "last_updated": "1638022669"
-    }
+    },
+    "1.5": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "Hashu": "/proxy/api/imgur/chapter/Ds4kbKQ/"
+      },
+      "last_updated": "1638355123"
+    },
   }
 }
