@@ -204,6 +204,30 @@
         "Hashu": "/proxy/api/imgur/chapter/cXs9JM9/"
       },
       "last_updated": "1644144310"
+         },
+    "10": {
+      "title": "I want you to stay away",
+      "volume": "1",
+      "groups": {
+        "Hashu": "/proxy/api/imgur/chapter/shAptEO/"
+      },
+      "last_updated": "1644695140"
+          },
+    "10.5": {
+      "title": "Extra 10",
+      "volume": "1",
+      "groups": {
+        "Hashu": "/proxy/api/imgur/chapter/uQMS7xd/"
+      },
+      "last_updated": "1644695665"
+           },
+    "10.6": {
+      "title": "[Special Illustrations] Late Summer Greetings",
+      "volume": "1",
+      "groups": {
+        "Hashu": "/proxy/api/imgur/chapter/cAauatr/"
+      },
+      "last_updated": "1644695889"
     }
   }
 }
