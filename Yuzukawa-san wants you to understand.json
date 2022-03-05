@@ -101,6 +101,14 @@
         "Hashu": "/proxy/api/imgur/chapter/hUHBgm6/"
       }
     },
+    "13": {
+      "title": "Are you hiding something from me?",
+      "volume": "2",
+      "last_updated": "1646490660",
+      "groups": {
+        "Hashu": "/proxy/api/imgur/chapter/qTjKXI6"
+      }
+    },
     "1.5": {
       "title": "Extra 1",
       "volume": "1",
@@ -251,7 +259,7 @@
       "last_updated": "1645359573",
       "groups": {
         "Hashu": "/proxy/api/imgur/chapter/eXhhBMP/"
-          }
+      }
     },
     "12.5": {
       "title": "Extra 12",
@@ -259,8 +267,8 @@
       "last_updated": "1645958865",
       "groups": {
         "Hashu": "/proxy/api/imgur/chapter/7S914r7/"
-            }
-      },
+      }
+    },
     "13.5": {
       "title": "Extra 13",
       "volume": "2",
