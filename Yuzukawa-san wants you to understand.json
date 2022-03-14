@@ -109,6 +109,14 @@
         "Hashu": "/proxy/api/imgur/chapter/qTjKXI6"
       }
     },
+    "14": {
+      "title": "I'm glad you listened to me",
+      "volume": "2",
+      "last_updated": "1647280176",
+      "groups": {
+        "Hashu": "/proxy/api/imgur/chapter/dwN5uff"
+      }
+    },
     "1.5": {
       "title": "Extra 1",
       "volume": "1",
@@ -275,6 +283,31 @@
       "last_updated": "1646490905",
       "groups": {
         "Hashu": "/proxy/api/imgur/chapter/PjyduOF/"
+         }
+    },
+    "14.5": {
+      "title": "Extra 14",
+      "volume": "2",
+      "last_updated": "1647280767",
+      "groups": {
+        "Hashu": "/proxy/api/imgur/chapter/VsYvnRM/"
+              }
+    },
+    "14.6": {
+      "title": "[Special Illustrations] Halloween",
+      "volume": "2",
+      "last_updated": "1647280889",
+      "groups": {
+        "Hashu": "/proxy/api/imgur/chapter/DiC3gWc/"
+              }
+    },
+    "14.7": {
+      "title": "Pixiv Extras - Volume 1 promo",
+      "volume": "2",
+      "last_updated": "1647281048",
+      "groups": {
+        "Hashu": "/proxy/api/imgur/chapter/zFfsVFl/"
+       
       }
     }
   }
