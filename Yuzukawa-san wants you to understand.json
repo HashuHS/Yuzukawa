@@ -283,7 +283,7 @@
       "last_updated": "1646490905",
       "groups": {
         "Hashu": "/proxy/api/imgur/chapter/PjyduOF/"
-         }
+      }
     },
     "14.5": {
       "title": "Extra 14",
@@ -291,7 +291,7 @@
       "last_updated": "1647280767",
       "groups": {
         "Hashu": "/proxy/api/imgur/chapter/VsYvnRM/"
-              }
+      }
     },
     "14.6": {
       "title": "[Special Illustrations] Halloween",
@@ -299,7 +299,7 @@
       "last_updated": "1647280889",
       "groups": {
         "Hashu": "/proxy/api/imgur/chapter/DiC3gWc/"
-              }
+      }
     },
     "14.7": {
       "title": "Pixiv Extras - Volume 1 promo",
@@ -307,7 +307,6 @@
       "last_updated": "1647281048",
       "groups": {
         "Hashu": "/proxy/api/imgur/chapter/zFfsVFl/"
-       
       }
     }
   }
