@@ -147,6 +147,14 @@
       "last_updated": "1648912289",
       "groups": {
         "Hashu": "/proxy/api/imgur/chapter/INFVdKI"
+        }
+    },
+    "19": {
+      "title": "Let's go to the outdoor school (Part 1)",
+      "volume": "2",
+      "last_updated": "1649054946",
+      "groups": {
+        "Hashu": "/proxy/api/imgur/chapter/at1YYAL"
       }
     },
     "1.5": {
@@ -395,6 +403,22 @@
       "last_updated": "1648912615",
       "groups": {
         "Hashu": "/proxy/api/imgur/chapter/4FpGoLc"
+          }
+    },
+    "19.5": {
+      "title": "Extra 19 + Volume 2 Extras",
+      "volume": "2",
+      "last_updated": "1649055191",
+      "groups": {
+        "Hashu": "/proxy/api/imgur/chapter/GJozm5K"
+          }
+    },
+    "19.7": {
+      "title": "Twitter Extras",
+      "volume": "2",
+      "last_updated": "1649055459",
+      "groups": {
+        "Hashu": "/proxy/api/imgur/chapter/XjnMVm7"
       }
     }
   }
