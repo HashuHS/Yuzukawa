@@ -314,7 +314,11 @@
       "volume": "1",
       "last_updated": "1643364683",
       "groups": {
-        "Yuzukawa scans": "/proxy/api/imgur/chapter/tGg4XQi/"
+        "Yuzukawa scans": [
+          "https://cdn.discordapp.com/attachments/967758253138280538/967758734535307405/1.png",
+          "https://cdn.discordapp.com/attachments/967758253138280538/967758735193825370/2.png",
+          "https://cdn.discordapp.com/attachments/967758253138280538/967758735747448852/3.png"
+        ]
       }
     },
     "8.7": {
@@ -346,7 +350,11 @@
       "volume": "1",
       "last_updated": "1644695889",
       "groups": {
-        "Yuzukawa scans": "/proxy/api/imgur/chapter/cAauatr/"
+        "Yuzukawa scans": [
+          "https://cdn.discordapp.com/attachments/967758253138280538/967759236060807218/1.png",
+          "https://cdn.discordapp.com/attachments/967758253138280538/967759236522201138/2.png",
+          "https://cdn.discordapp.com/attachments/967758253138280538/967759237042290708/3.png"
+        ]
       }
     },
     "10.7": {
@@ -394,7 +402,10 @@
       "volume": "2",
       "last_updated": "1647280889",
       "groups": {
-        "Yuzukawa scans": "/proxy/api/imgur/chapter/DiC3gWc/"
+        "Yuzukawa scans": [
+          "https://cdn.discordapp.com/attachments/967758253138280538/967759921384927312/1.png",
+          "https://cdn.discordapp.com/attachments/967758253138280538/967759921980526623/2.png"
+        ]
       }
     },
     "14.7": {
@@ -442,7 +453,13 @@
       "volume": "2",
       "last_updated": "1648912583",
       "groups": {
-        "Yuzukawa scans": "/proxy/api/imgur/chapter/arU6nRQ"
+        "Yuzukawa scans": [
+          "https://cdn.discordapp.com/attachments/967758253138280538/967760488555479060/01.png",
+          "https://cdn.discordapp.com/attachments/967758253138280538/967760489146884146/02.png",
+          "https://cdn.discordapp.com/attachments/967758253138280538/967760489696346162/03.png",
+          "https://cdn.discordapp.com/attachments/967758253138280538/967760490229026816/04.png",
+          "https://cdn.discordapp.com/attachments/967758253138280538/967760490757517322/05.png"
+        ]
       }
     },
     "18.7": {
@@ -523,10 +540,10 @@
       "last_updated": "1650636168",
       "groups": {
         "Yuzukawa scans": [
-          "https://cdn.discordapp.com/attachments/767742472569749505/967064175220252682/01.png",
-          "https://cdn.discordapp.com/attachments/767742472569749505/967064235484004402/02.png",
-          "https://cdn.discordapp.com/attachments/767742472569749505/967064235752427520/03.png",
-          "https://cdn.discordapp.com/attachments/767742472569749505/967064299740725298/04.png"
+          "https://cdn.discordapp.com/attachments/967758253138280538/967761473633943614/01.png",
+          "https://cdn.discordapp.com/attachments/967758253138280538/967761474221129778/02.png",
+          "https://cdn.discordapp.com/attachments/967758253138280538/967761474875457576/03.png",
+          "https://cdn.discordapp.com/attachments/967758253138280538/967761475278082058/04.png"
         ]
       }
     }
