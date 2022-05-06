@@ -205,6 +205,14 @@
         "Yuzukawa scans": "/proxy/api/imgur/chapter/rx0RO8X"
       }
     },
+    "26": {
+      "title": "Stargazers",
+      "volume": "",
+      "last_updated": "1651861687",
+      "groups": {
+        "Yuzukawa scans": "/proxy/api/imgur/chapter/TEqoLha"
+      }
+    },
     "1.5": {
       "title": "Extra 1",
       "volume": "1",
@@ -547,6 +555,14 @@
           "https://cdn.discordapp.com/attachments/967758253138280538/967761474875457576/03.png",
           "https://cdn.discordapp.com/attachments/967758253138280538/967761475278082058/04.png"
         ]
+      }
+    },
+    "26.5": {
+      "title": "Extra 26",
+      "volume": "",
+      "last_updated": "1651861729",
+      "groups": {
+        "Yuzukawa scans": "/proxy/api/imgur/chapter/dT2n77h"
       }
     }
   }
