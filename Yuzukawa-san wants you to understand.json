@@ -213,6 +213,14 @@
         "Yuzukawa scans": "/proxy/api/imgur/chapter/TEqoLha"
       }
     },
+    "27": {
+      "title": "I want you to...",
+      "volume": "",
+      "last_updated": "1653046986",
+      "groups": {
+        "Yuzukawa scans": "/proxy/api/imgur/chapter/3GO3sou"
+      }
+    },
     "1.5": {
       "title": "Extra 1",
       "volume": "1",
@@ -563,6 +571,14 @@
       "last_updated": "1651861729",
       "groups": {
         "Yuzukawa scans": "/proxy/api/imgur/chapter/dT2n77h"
+      }
+    },
+    "27.5": {
+      "title": "Extra 27",
+      "volume": "",
+      "last_updated": "1653047047",
+      "groups": {
+        "Yuzukawa scans": "/proxy/api/imgur/chapter/xfXFeDL"
       }
     }
   }
