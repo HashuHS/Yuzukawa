@@ -229,6 +229,14 @@
         "Yuzukawa scans": "/proxy/api/imgur/chapter/XxbtlbD"
       }
     },
+    "29": {
+      "title": "I know a place where we can go",
+      "volume": "",
+      "last_updated": "1655459230",
+      "groups": {
+        "Yuzukawa scans": "/proxy/api/imgur/chapter/yz9HDXG"
+      }
+    },
     "1.5": {
       "title": "Extra 1",
       "volume": "1",
@@ -595,6 +603,14 @@
       "last_updated": "1654255176",
       "groups": {
         "Yuzukawa scans": "/proxy/api/imgur/chapter/rnyaGBS"
+      }
+    },
+    "29.5": {
+      "title": "Extra 29",
+      "volume": "",
+      "last_updated": "1655459205",
+      "groups": {
+        "Yuzukawa scans": "/proxy/api/imgur/chapter/e5TZB2i"
       }
     }
   }
