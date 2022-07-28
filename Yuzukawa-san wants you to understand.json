@@ -245,6 +245,14 @@
         "Yuzukawa scans": "/proxy/api/imgur/chapter/nThsUvy"
       }
     },
+    "31": {
+      "title": "I casted a magical spell on you",
+      "volume": "",
+      "last_updated": "1659031285",
+      "groups": {
+        "Yuzukawa scans": "/proxy/api/imgur/chapter/ZEKETLY"
+      }
+    },
     "1.5": {
       "title": "Extra 1",
       "volume": "1",
@@ -627,6 +635,22 @@
       "last_updated": "1656682751",
       "groups": {
         "Yuzukawa scans": "/proxy/api/imgur/chapter/nnkoMKX"
+      }
+    },
+    "30.6": {
+      "title": "Bonus Chapter",
+      "volume": "",
+      "last_updated": "1659031214",
+      "groups": {
+        "Yuzukawa scans": "/proxy/api/imgur/chapter/WxkofIU"
+      }
+    },
+    "31.5": {
+      "title": "Extra 31",
+      "volume": "",
+      "last_updated": "1659031354",
+      "groups": {
+        "Yuzukawa scans": "/proxy/api/imgur/chapter/gBCnNN3"
       }
     }
   }
