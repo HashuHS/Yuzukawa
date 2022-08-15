@@ -253,6 +253,14 @@
         "Yuzukawa scans": "/proxy/api/imgur/chapter/ZEKETLY"
       }
     },
+    "32": {
+      "title": "I want you to accept my chocolate",
+      "volume": "",
+      "last_updated": "1660590522",
+      "groups": {
+        "Yuzukawa scans": "/proxy/api/imgur/chapter/zjJQsDm"
+      }
+    },
     "1.5": {
       "title": "Extra 1",
       "volume": "1",
@@ -651,6 +659,14 @@
       "last_updated": "1659031354",
       "groups": {
         "Yuzukawa scans": "/proxy/api/imgur/chapter/gBCnNN3"
+      }
+    },
+    "32.5": {
+      "title": "Extra 32",
+      "volume": "",
+      "last_updated": "1660590494",
+      "groups": {
+        "Yuzukawa scans": "/proxy/api/imgur/chapter/vGOZ0rR"
       }
     }
   }
