@@ -261,6 +261,14 @@
         "Yuzukawa scans": "/proxy/api/imgur/chapter/zjJQsDm"
       }
     },
+    "33": {
+      "title": "Her Parents",
+      "volume": "",
+      "last_updated": "1661136314",
+      "groups": {
+        "Yuzukawa scans": "/proxy/api/imgur/chapter/XENwxA4"
+      }
+    },
     "1.5": {
       "title": "Extra 1",
       "volume": "1",
@@ -675,6 +683,14 @@
       "last_updated": "1660650901",
       "groups": {
         "Yuzukawa scans": "/proxy/api/imgur/chapter/sm4Krly"
+      }
+    },
+    "33.5": {
+      "title": "Extra 33",
+      "volume": "3",
+      "last_updated": "1661136352",
+      "groups": {
+        "Yuzukawa scans": "/proxy/api/imgur/chapter/Y6qAGJq"
       }
     }
   }
