@@ -269,6 +269,14 @@
         "Yuzukawa scans": "/proxy/api/imgur/chapter/XENwxA4"
       }
     },
+    "34": {
+      "title": "The day it snowed",
+      "volume": "",
+      "last_updated": "1664609288",
+      "groups": {
+        "Yuzukawa scans": "/proxy/api/imgur/chapter/Omdqwiz"
+      }
+    },
     "1.5": {
       "title": "Extra 1",
       "volume": "1",
@@ -691,6 +699,25 @@
       "last_updated": "1661136352",
       "groups": {
         "Yuzukawa scans": "/proxy/api/imgur/chapter/Y6qAGJq"
+      }
+    },
+    "34.5": {
+      "title": "Extra 34",
+      "volume": "",
+      "last_updated": "1664609328",
+      "groups": {
+        "Yuzukawa scans": "/proxy/api/imgur/chapter/8qxnE33"
+      }
+    },
+    "34.6": {
+      "title": "[Special Illustrations] After exercising",
+      "volume": "",
+      "last_updated": "1664609352",
+      "groups": {
+        "Yuzukawa scans": [
+          "https://cdn.discordapp.com/attachments/967758253138280538/1025670352149430283/01.png",
+          "https://cdn.discordapp.com/attachments/967758253138280538/1025670351809687572/02.png"
+        ]
       }
     }
   }
