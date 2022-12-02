@@ -277,6 +277,14 @@
         "Yuzukawa scans": "/proxy/api/imgur/chapter/Omdqwiz"
       }
     },
+    "35": {
+      "title": "14th March",
+      "volume": "",
+      "last_updated": "1669941408",
+      "groups": {
+        "Yuzukawa scans": "/proxy/api/imgur/chapter/P4tMukf"
+      }
+    },
     "1.5": {
       "title": "Extra 1",
       "volume": "1",
@@ -718,6 +726,14 @@
           "https://cdn.discordapp.com/attachments/967758253138280538/1025670352149430283/01.png",
           "https://cdn.discordapp.com/attachments/967758253138280538/1025670351809687572/02.png"
         ]
+      }
+    },
+    "35.5": {
+      "title": "Extra 35",
+      "volume": "",
+      "last_updated": "1669941495",
+      "groups": {
+        "Yuzukawa scans": "/proxy/api/imgur/chapter/QsGlAEw"
       }
     }
   }
