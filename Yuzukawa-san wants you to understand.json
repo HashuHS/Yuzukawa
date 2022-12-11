@@ -285,6 +285,14 @@
         "Yuzukawa scans": "/proxy/api/imgur/chapter/P4tMukf"
       }
     },
+    "36": {
+      "title": "Boy Meets Girl",
+      "volume": "",
+      "last_updated": "1670761846",
+      "groups": {
+        "Yuzukawa scans": "/proxy/api/imgur/chapter/kjxsSMf"
+      }
+    },
     "1.5": {
       "title": "Extra 1",
       "volume": "1",
@@ -734,6 +742,14 @@
       "last_updated": "1669941495",
       "groups": {
         "Yuzukawa scans": "/proxy/api/imgur/chapter/QsGlAEw"
+      }
+    },
+    "36.5": {
+      "title": "Extra 36",
+      "volume": "",
+      "last_updated": "1670761902",
+      "groups": {
+        "Yuzukawa scans": "/proxy/api/imgur/chapter/jT6vwIQ"
       }
     }
   }
