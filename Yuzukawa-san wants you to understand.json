@@ -3,7 +3,7 @@
   "description": "Kushima-kun has just started going out with his classmate Yuzukawa Kururi. But Yuzukawa-san is not good at expressing her emotions, so she wants Kushima-kun to understand her feelings...? This is a new kind of romantic comedy about two people who are already dating instead of not together yet.\n\n Updated around every 14 days after the 0.5 chapter's raws are out. \n\nAuthor's Pixiv - https://www.pixiv.net/en/users/303943\nAuthor's Twitter - https://twitter.com/sakayama_shinta\nVolume 1 - https://www.amazon.co.jp/gp/product/4088921232\nVolume 2 - https://www.amazon.co.jp/gp/product/4088922158\nVolume 3 - https://www.amazon.co.jp/gp/product/4088923782\nMangadex - https://mangadex.org/title/d793e3d0-145c-4f25-b38b-6846b31e87cd/\nEmote pack - https://files.catbox.moe/nv6ma4.zip   or   https://anonfiles.com/HczeX7Y7xf/final_zip",
   "artist": "Sakayama Shinta",
   "author": "Sakayama Shinta",
-  "cover": "https://cdn.discordapp.com/attachments/967758253138280538/992424693955047424/hvb.png",
+  "cover": "https://cdn.discordapp.com/attachments/765566648664195092/1094288792296370186/00001.jpg",
   "chapters": {
     "1": {
       "title": "I want to be with you",
@@ -291,6 +291,14 @@
       "last_updated": "1670761846",
       "groups": {
         "Yuzukawa scans": "/proxy/api/imgur/chapter/kjxsSMf"
+      }
+    },
+    "37": {
+      "title": "The First Time He Understood",
+      "volume": "",
+      "last_updated": "1671799560",
+      "groups": {
+        "Yuzukawa scans": "/proxy/api/imgur/chapter/VtMJbfH"
       }
     },
     "1.5": {
@@ -750,6 +758,14 @@
       "last_updated": "1670761902",
       "groups": {
         "Yuzukawa scans": "/proxy/api/imgur/chapter/jT6vwIQ"
+      }
+    },
+    "37.5": {
+      "title": "Extra 37",
+      "volume": "",
+      "last_updated": "1671799800",
+      "groups": {
+        "Yuzukawa scans": "/proxy/api/imgur/chapter/CFDHR4Q"
       }
     }
   }
